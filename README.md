@@ -23,10 +23,10 @@ We performed the analysis of data in SQLite database format using SQLAlchemy
 
 >Deliverable 1 - Summary Statistics for December
 
-- __Deliverable 2:__ A written report for the statistical analysis [(README.md)](https://github.com/xenia-e/surfs_up/blob/main/README.md)
+- __Deliverable 3:__ A written report for the statistical analysis [(README.md)](https://github.com/xenia-e/surfs_up/blob/main/README.md)
 
 
-All corresponded code presented in the Jupiter Notebook file - [SurfsUp Challenge](https://github.com/xenia-e/surfs_up/blob/main/SurfsUp_Challenge.ipynb)
+All corresponded code presented in the Jupiter Notebook file [SurfsUp Challenge](https://github.com/xenia-e/surfs_up/blob/main/SurfsUp_Challenge.ipynb)
 
 
 # Results
@@ -40,9 +40,9 @@ Comparative analysis of June vs December temperatures allow us to point out key 
 
 # Summary
 
-Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+Even though December is colder than June, average monthly temperatures do not differ that much. And December traditionally counted as the high tourist season due to the Christmas holidays. These facts allow us to assume that temperature would not be the factor affecting business sustainability. Nevertheless, we cant make a final decision based only on it.
 
-Even though December is colder than June, average monthly temperatures do not differ that much. This fact allows us to assume that temperature would not be the factor to factor to affect business sustainability. Nevertheless, we cant make a final decision based only on it.
+In addition to this, we advise analyzing precipitation data in June and December and March and September temperatures statistic.
 
 Comparing precipitation statistic for December and June allow as to assume that business sustainability will not be affected by extensive rains either. Anyway, analysis shows that June has more rainy days than December, but at the same time, the average precipitation level is lower in June.
 
@@ -51,17 +51,17 @@ Comparing precipitation statistic for December and June allow as to assume that 
 > Figure 1 - June precipitation statistic
 
 
-![December presipitation statistic](https://github.com/xenia-e/surfs_up/blob/main/analysis/december_prcp.png)
+![December presipitation statistic](hhttps://github.com/xenia-e/surfs_up/blob/main/analysis/december_prsp.png)
 
 > Figure 2 - December precipitation statistic
 
-In addition to this, we advise analyzing March and September temperatures and precipitation data in June and December.
+
+
+Looking at the summarized analysis of March temperatures, we can say that the average monthly temperature in March is even lower than in December. And unlike December, March has no major holidays in it and does not add to tourist flow. So March might be the month that will affect the net gross in the store.
 
 ![March temperature statistic](https://github.com/xenia-e/surfs_up/blob/main/analysis/march_statistic.png)
 
 > Figure 3 - March temperature statistic
-
-Looking at the summarized analysis of March temperatures,  we can say that the average monthly temperature in March is even lower than in December. And unlike December, March has no major holidays in it and does not add to tourist flow. So March might be the month that will affect the net gross in the store.
 
 ![September temperature statistic](https://github.com/xenia-e/surfs_up/blob/main/analysis/september_statistic.png)
 
@@ -70,3 +70,4 @@ Looking at the summarized analysis of March temperatures,  we can say that the a
 September statistic doesn't seem to give us any new insights. 
 
 Sadly that is all we can do withing provided data. Otherwise, I would suggest analyzing monthly offshore winds and storms. 
+
