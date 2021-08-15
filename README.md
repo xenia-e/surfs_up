@@ -51,7 +51,7 @@ Comparing precipitation statistic for December and June allow as to assume that 
 > Figure 1 - June precipitation statistic
 
 
-![December presipitation statistic](hhttps://github.com/xenia-e/surfs_up/blob/main/analysis/december_prsp.png)
+![December presipitation statistic](https://github.com/xenia-e/surfs_up/blob/main/analysis/december_prsp.png)
 
 > Figure 2 - December precipitation statistic
 
